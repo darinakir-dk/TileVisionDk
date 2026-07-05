@@ -3,6 +3,7 @@
 > **Domain:** Tile & Flooring Retail / Interior Design  
 > **Role:** Business Analyst  
 > **Artifact types:** Use Case Diagram, Activity Diagram (UML), UI Mockups
+> Prototype: [View in Moqups](https://app.moqups.com/Mm2ciYCMIVfEs4o4UkQXsLj6A0JlogsN/view/page/a0b35d304)
 
 ---
 
