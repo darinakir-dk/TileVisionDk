@@ -429,7 +429,11 @@ The map structures all user stories across six activity columns, three task rows
 
 ---
 
-## 10. Glossary
+## 10. BPMN
+![BPMN-diagram](BPMN.jpeg)
+---
+
+## 11. Glossary
 
 | Term | Definition |
 |------|------------|
