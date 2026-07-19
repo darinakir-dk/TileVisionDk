@@ -24,7 +24,7 @@ The objective is to identify which features are essential for the MVP, which sho
 
 ### MoSCoW Matrix
 
-![Feature Prioritization Matrix](Feature.jpeg)
+![Feature Prioritization Matrix](Feature.jpg)
 
 > *Replace `Feature.jpeg` with the uploaded screenshot.*
 
